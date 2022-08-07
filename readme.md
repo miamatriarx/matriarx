@@ -205,8 +205,8 @@
 🪄✨ [Release Notes](https://github.com/miamatriarx/matriarx/blob/docs/main/release.md)\
 🪄✨ [Authors](https://github.com/miamatriarx/matriarx/blob/main/docs/authors.md)\
 🪄✨ [Contributors](https://github.com/miamatriarx/matriarx/blob/main/docs/contributors.md)\
-🪄✨ [Acknowledgements](https://github.com/miamatriarx/matriarx/blob/main/acknowledgements.md)\
-🪄✨ [Supporters](https://github.com/miamatriarx/matriarx/blob/main/supporters.md)\
+🪄✨ [Acknowledgements](https://github.com/miamatriarx/matriarx/blob/main/docs/acknowledgements.md)\
+🪄✨ [Supporters](https://github.com/miamatriarx/matriarx/blob/main/docs/supporters.md)\
 🪄✨ [Contact](https://github.com/miamatriarx/.github/blob/main/docs/support.md)\
 🪄✨ [License](https://github.com/miamatriarx/matriarx/blob/main/license)
 
