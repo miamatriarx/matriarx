@@ -193,9 +193,9 @@
 
 🪄✨ [Project](https://github.com/miamatriarx/matriarx/projects)\
 🪄✨ [Discussions](https://github.com/miamatriarx/matriarx/discussions)\
+🪄✨ [Issues](https://github.com/miamatriarx/matriarx/issues)\
 🪄✨ [Wiki](https://github.com/miamatriarx/matriarx/wiki)\
 🪄✨ [Docs](https://github.com/miamatriarx/matriarx/blob/main/docs/readme.md)\
-🪄✨ [Source Code](https://github.com/miamatriarx/.github/blob/main/src/readme.md)\
 🪄✨ [Code of Conduct](https://github.com/miamatriarx/.github/blob/main/docs/code_of_conduct.md)\
 🪄✨ [Contributing](https://github.com/miamatriarx/.github/blob/main/docs/contributing.md)\
 🪄✨ [Security](https://github.com/miamatriarx/.github/blob/main/docs/security.md)\
@@ -289,7 +289,7 @@ At the cost of a coffee you can help make the world a better place ✨💕
 
   <p>
     <a href="https://github.com/miamatriarx">
-      <img src="https://contrib.rocks/image?repo=miamatriarx/matriarxmatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
+      <img src="https://contrib.rocks/image?repo=miamatriarx/miamatriarx" title="Mia Matriarx" alt="Mia Matriarx"/>
     </a>
   </p>
 
